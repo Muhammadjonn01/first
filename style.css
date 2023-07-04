@@ -1,0 +1,52 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+body
+{   
+      padding: 20px;
+}
+table
+{
+    border: 1px solid white;
+    border-collapse: collapse;
+    accent-color: blue;
+}
+td
+{
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+   box-shadow: 1px 1px 1px 1px rgba(105, 105, 105, 0.689);
+}
+#tr1
+{
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+   box-shadow: 2px 2px 2px rgba(105, 105, 105, 0.689);
+   background-color: rgba(105, 105, 105, 0.2);
+}
+#tr2
+{
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    box-shadow: 2px 2px 2px rgba(105, 105, 105, 0.689); 
+    background-color: rgba(105, 105, 105, 0.1);
+}
+.hh
+{
+    width: 20px;
+    height: 15px;
+}
+span
+{
+    border-radius: 10px;
+    padding: 5px;
+    background-color: lightgreen;
+}
